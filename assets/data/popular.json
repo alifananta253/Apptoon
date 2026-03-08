@@ -1,0 +1,17 @@
+{
+  "popular": [
+    {
+      "id": 1,
+      "slug": "tvb",
+      "title": "The Village Boy Who Inherited a God's Power",
+      "author": "Alif Ananta",
+      "cover_url": "assets/comic/tvb/cover.png",
+      "description": "Seorang anak desa bernama Kael secara tak sengaja mewarisi kekuatan para dewa setelah menemukan batu kuno misterius di hutan pada suatu malam yang mengubah takdir dunia.",
+      "rating": 4.9,
+      "status": "Ongoing",
+      "categories": ["Action", "Fantasy", "Adventure"],
+      "weekly_day": "Kamis",
+      "episodes": 9
+    }
+  ]
+}

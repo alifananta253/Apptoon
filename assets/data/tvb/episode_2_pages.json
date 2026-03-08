@@ -1,0 +1,16 @@
+{
+  "comic_id": 1,
+  "episode_id": 1,
+  "title": "Episode 2",
+  "images": [
+    "assets/comic/tvb/episode_2/1.png",
+    "assets/comic/tvb/episode_2/2.png",
+    "assets/comic/tvb/episode_2/3.png",
+    "assets/comic/tvb/episode_2/4.png",
+    "assets/comic/tvb/episode_2/5.png",
+    "assets/comic/tvb/episode_2/6.png",
+    "assets/comic/tvb/episode_2/7.png",
+    "assets/comic/tvb/episode_2/8.png",
+    "assets/comic/tvb/episode_2/9.png"
+  ]
+}

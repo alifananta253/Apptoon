@@ -1,0 +1,44 @@
+{
+  "episodes": [
+    {
+      "comic_id": 1,
+      "episode_id": 1,
+      "title": "Episode 1",
+      "thumbnail": "assets/comic/tvb/cover.png",
+      "page_count": 9,
+      "published_at": "2026-03-07"
+    },
+    {
+      "comic_id": 1,
+      "episode_id": 2,
+      "title": "Episode 2",
+      "thumbnail": "assets/comic/tvb/cover.png",
+      "page_count": 9,
+      "published_at": "2026-03-07"
+    },
+    {
+      "comic_id": 1,
+      "episode_id": 3,
+      "title": "Episode 3",
+      "thumbnail": "assets/comic/tvb/cover.png",
+      "page_count": 9,
+      "published_at": "2026-03-07"
+    },
+    {
+      "comic_id": 1,
+      "episode_id": 4,
+      "title": "Episode 4",
+      "thumbnail": "assets/comic/tvb/cover.png",
+      "page_count": 9,
+      "published_at": "2026-03-07"
+    },
+    {
+      "comic_id": 1,
+      "episode_id": 5,
+      "title": "Episode 5",
+      "thumbnail": "assets/comic/tvb/cover.png",
+      "page_count": 9,
+      "published_at": "2026-03-07"
+    }
+  ]
+}
